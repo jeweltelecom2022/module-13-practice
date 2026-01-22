@@ -1,5 +1,5 @@
-var name = "amar mithila";
-const wifeName ="amar mithon";
+var name = "amar nam";
+const wifeName ="amar name ki?";
 
 var age = 25;
 var newAge = 36;
@@ -10,7 +10,7 @@ var age = parseFloat('22.4');
 var taka = 0.1;
 var poisa = 0.2;
 var pora = 22;
-var name = "amar mithon";
+var name = "amar name";
 var name = null
 
 console.log(name);
